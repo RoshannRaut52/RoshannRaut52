@@ -25,7 +25,6 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frontend
 
@@ -48,21 +47,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RoshannRaut52&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshannRaut52&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
 ---
 
 ## 🔥 GitHub Streak
@@ -95,27 +79,28 @@
 
 ## 🚀 Featured Projects
 
-### 🎯 AI Student Dropout Prediction System
-Machine Learning powered platform for identifying students at risk and assisting institutions with early intervention.
+### 🎯 The Interview Room — Resume-to-Interview Simulator
+An AI-powered mock interview platform where users upload their resume, practice with a personalized AI hiring manager, and receive real-time feedback on their answers. Built with Node.js, Google Gemini API, and deployed on AWS Elastic Beanstalk.
 
-### 🌐 Full Stack Web Applications
-Modern web applications using React, Node.js, Express, and PostgreSQL.
+### 🌐 Campus Lost & Found
+It is a smart Lost & Found Management System for colleges, where students can report lost/found items, get AI-powered match suggestions, and chat securely to recover belongings—built with Node.js, PostgreSQL, and deployed on Render & Vercel.
 
-### 🤖 Machine Learning Projects
-Data analysis, predictive models, and AI-powered solutions using Python.
+### 🤖 EduPredict
+EduPredict is an AI-powered student dropout prediction and intervention platform developed for Smart India Hackathon (SIH). It helps educational institutions identify at-risk students early and enables timely interventions through data-driven insights.
 
-### 💡 Data Structures & Algorithms
-Optimized C++ solutions and problem-solving implementations.
+### 💡 Student Skill Tracker System
+A full-stack web application for teachers to manage student skills, projects, and achievements using MongoDB. Features JWT authentication, CRUD operations, skill-based search, and is deployed on Vercel & Render.
 
 ---
 
 ## 🌱 Currently Learning
 
+- Advanced Data Structures & Algorithms
 - Artificial Intelligence
 - Machine Learning
+- Web Technology
 - System Design
 - Cloud Computing
-- Advanced Data Structures & Algorithms
 
 ---
 
@@ -129,7 +114,7 @@ Optimized C++ solutions and problem-solving implementations.
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/roshan48613">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -137,7 +122,7 @@ Optimized C++ solutions and problem-solving implementations.
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:roshanraut.tech@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -147,21 +132,17 @@ Optimized C++ solutions and problem-solving implementations.
 
 ## 💻 Coding Profiles
 
-<a href="https://leetcode.com/RoshannRaut52">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<p align="left">
+
+<a href="https://leetcode.com/u/roshan48613/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> 
+</a> 
+
+<a href="https://www.codechef.com/users/RoshannRaut52"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/>
 </a>
 
-<a href="https://www.codechef.com/users/RoshannRaut52">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/>
-</a>
-
-<a href="https://codeforces.com/profile/RoshannRaut52">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
-</a>
-
-<a href="https://www.hackerrank.com/RoshannRaut52">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
+<a href="https://www.geeksforgeeks.org/user/roshan48613/"> <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/> 
+</a> 
+</p>
 
 ---
 
