@@ -137,10 +137,10 @@ A full-stack web application for teachers to manage student skills, projects, an
 <a href="https://leetcode.com/u/roshan48613/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> 
 </a> 
 
-<a href="https://www.codechef.com/users/RoshannRaut52"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/>
+<a href="https://www.codechef.com/users/roshan2006"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/user/roshan48613/"> <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/> 
+<a href="https://www.geeksforgeeks.org/user/roshanraugrx4/"> <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/> 
 </a> 
 </p>
 
