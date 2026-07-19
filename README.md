@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋 I'm Roshan Raut
 
-<!--
-**RoshannRaut52/RoshannRaut52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Developer
 
-Here are some ideas to get you started:
+💻 B.Tech IT Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning
+- Data Structures & Algorithms
+- Machine Learning
+- Full-Stack Development
+
+🛠 Tech Stack
+
+C++ • Python • JavaScript • Node.js • React • PostgreSQL • Git
+
+🚀 Featured Projects
+
+- AI Student Dropout Prediction
+- Smart India Hackathon Project
+- Full Stack Applications
+
+📫 Connect with me
+
+LinkedIn: ...
+Portfolio: ...
